@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+
+I am a computer science student with an interest in video game development and cybersecurity.
+
+Games that I have made or worked on can be found on my [itch page](https://hastexy.itch.io/)
 
 <!--
 **Hastexy/Hastexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
